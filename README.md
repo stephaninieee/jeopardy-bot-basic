@@ -7,6 +7,7 @@
 
 ### Resources
 * [PowerPoint(including lab steps)](https://docs.google.com/presentation/d/1fBv4nT5j0E5xKSq_apbhKvZRO5jIMMF4/edit#slide=id.g18f4a1fcbf5_5_0)
+* [Slide (including lab steps)](https://drive.google.com/drive/u/0/folders/1U4r4kZ-j3zNc5CGoT32kNmQeJ1HFnQT4)
 
 ### Note
 if the library in python.zip dont work
